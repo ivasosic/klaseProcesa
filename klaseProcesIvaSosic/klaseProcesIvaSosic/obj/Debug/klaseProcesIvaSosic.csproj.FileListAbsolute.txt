@@ -1,0 +1,10 @@
+C:\Users\Iva\source\repos\klaseProcesIvaSosic\klaseProcesIvaSosic\bin\Debug\klaseProcesIvaSosic.exe.config
+C:\Users\Iva\source\repos\klaseProcesIvaSosic\klaseProcesIvaSosic\bin\Debug\klaseProcesIvaSosic.exe
+C:\Users\Iva\source\repos\klaseProcesIvaSosic\klaseProcesIvaSosic\bin\Debug\klaseProcesIvaSosic.pdb
+C:\Users\Iva\source\repos\klaseProcesIvaSosic\klaseProcesIvaSosic\obj\Debug\klaseProcesIvaSosic.csproj.AssemblyReference.cache
+C:\Users\Iva\source\repos\klaseProcesIvaSosic\klaseProcesIvaSosic\obj\Debug\klaseProcesIvaSosic.Form1.resources
+C:\Users\Iva\source\repos\klaseProcesIvaSosic\klaseProcesIvaSosic\obj\Debug\klaseProcesIvaSosic.Properties.Resources.resources
+C:\Users\Iva\source\repos\klaseProcesIvaSosic\klaseProcesIvaSosic\obj\Debug\klaseProcesIvaSosic.csproj.GenerateResource.cache
+C:\Users\Iva\source\repos\klaseProcesIvaSosic\klaseProcesIvaSosic\obj\Debug\klaseProcesIvaSosic.csproj.CoreCompileInputs.cache
+C:\Users\Iva\source\repos\klaseProcesIvaSosic\klaseProcesIvaSosic\obj\Debug\klaseProcesIvaSosic.exe
+C:\Users\Iva\source\repos\klaseProcesIvaSosic\klaseProcesIvaSosic\obj\Debug\klaseProcesIvaSosic.pdb
